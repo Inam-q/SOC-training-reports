@@ -27,7 +27,7 @@ Traffic analysis reports, packet investigation, and network defense fundamentals
 ### 🔹 [Phishing](./Phishing)  
 A dedicated section on phishing analysis, detection techniques, prevention strategies, and hands-on phishing investigations.  
 
-### 🔹 [Security-Information-and-Event-Management](./Security Information-and-Event-Management)  
+### 🔹 [Security-Information-and-Event-Management](./Security-Information-and-Event-Management)  
 Notes and labs on SIEM platforms (Splunk, ELK, etc.), event correlation, and log analysis.  
 
 ### 🔹 [SOC-Level-1-Capstone-Challenges](./SOC-Level-1-Capstone-Challenges)  
