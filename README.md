@@ -21,7 +21,7 @@ Case studies and practical notes on investigating digital evidence, incident han
 ### 🔹 [Endpoint-Security-Monitoring](./Endpoint-Security-Monitoring)  
 Reports and exercises related to detecting, monitoring, and responding to endpoint-based attacks.  
 
-### 🔹 [Network-Security-and-Traffic-Analysis](./Network-Security-and-Traffic-Analysis)  
+### 🔹 [Network Security-and-Traffic-Analysis](./Network-Security-and-Traffic-Analysis)  
 Traffic analysis reports, packet investigation, and network defense fundamentals.  
 
 ### 🔹 [Phishing](./Phishing)  
